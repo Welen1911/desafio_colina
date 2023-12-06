@@ -104,6 +104,10 @@ body {
     font-style: normal;
   }
 
+  .plein {
+    font-family: Plein-Regular;
+  }
+
 
   @font-face {
     font-family: 'Plein-Italic';
